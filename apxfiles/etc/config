@@ -90,7 +90,7 @@ usermode=0
 licenseGen=0
 checkLicense=0
 accpath="/proc/net/appex"
-apxexe="/serverspeeder/bin/acce-3.11.20.4-[Ubuntu_14.04_3.13.0-24-generic]"
+apxexe="/serverspeeder/bin/acce-3.10.61.0-[Ubuntu_12.04.2_3.2.0-40-generic]"
 apxlic="/serverspeeder/etc/apx-20341231.lic"
 
 serial="462421CAE5DF5231"
