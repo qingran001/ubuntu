@@ -1,7 +1,10 @@
 #!/bin/bash
-# Copyright (C) 2015 AppexNetworks
-# Author:	Len
-# Date:		Aug, 2015
+##########################################
+# File Name: weijians.sh
+# Email: nimabibugaosuni@gmail.com
+# Date: 2016.2.5
+# Version: v1.0
+##########################################
 
 apt-get install macchanger -y
 macchanger eth0 -m 00:16:3C:01:D5:B6
